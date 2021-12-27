@@ -5,6 +5,8 @@
 2. 알고스팟 (https://www.acmicpc.net/problem/1261)
 3. ACM Craft (https://www.acmicpc.net/problem/1005)
 4. 과자 나눠주기 (https://www.acmicpc.net/problem/16401)
+5. 배열 돌리기 4 (https://www.acmicpc.net/problem/17406)
+6. 외벽 점검 (https://programmers.co.kr/learn/courses/30/lessons/60062+)
 
 
 # 진행 방식
